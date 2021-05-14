@@ -1,0 +1,12 @@
+.vscode/
+jos.out
+.gdbrc
+.gdb_history
+.settings 
+gradelib.pyc
+obj/ 
+vu-aos-2019.lab* 
+x86_64-elf-7.3.0-Linux-x86_64/
+peda-*
+jos.*
+__pycache*
